@@ -1,0 +1,276 @@
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\ApplicationInsights.config
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\CRUDWebAPI.dll.config
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\CRUDWebAPI.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\CRUDWebAPI.pdb
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Antlr3.Runtime.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.Web.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Newtonsoft.Json.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Net.Http.Formatting.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Helpers.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.WebHost.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Mvc.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Optimization.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Razor.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\WebGrease.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Newtonsoft.Json.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Net.Http.Formatting.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Helpers.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.WebHost.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Mvc.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Optimization.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Razor.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Antlr3.Runtime.pdb
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\Microsoft.AI.Web.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CoreCompileInputs.cache
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\obj\Debug\CRUDWebAPI.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\obj\Debug\CRUDWebAPI.pdb
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\EntityFramework.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\EntityFramework.SqlServer.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\EntityFramework.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\EntityFramework.SqlServer.xml
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Cors.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.Cors.dll
+E:\AProjects\AngularWebAPICRUD\CRUDWebAPI\bin\System.Web.Http.Cors.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\ApplicationInsights.config
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.dll.config
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.pdb
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Antlr3.Runtime.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Web.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Newtonsoft.Json.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Cors.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Helpers.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.Cors.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Mvc.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Optimization.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Razor.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\WebGrease.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.SqlServer.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.Cors.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Newtonsoft.Json.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Helpers.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Mvc.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Optimization.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Razor.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Antlr3.Runtime.pdb
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Web.xml
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.csprojResolveAssemblyReference.cache
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.dll
+E:\Project BK\All Projects Backup\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.pdb
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\ApplicationInsights.config
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.dll.config
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\CRUDWebAPI.pdb
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Antlr3.Runtime.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Web.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Newtonsoft.Json.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Cors.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Helpers.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.Cors.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Mvc.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Optimization.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Razor.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\WebGrease.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\EntityFramework.SqlServer.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.Cors.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Newtonsoft.Json.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Helpers.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Mvc.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Optimization.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.Razor.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Antlr3.Runtime.pdb
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\bin\Microsoft.AI.Web.xml
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.csprojAssemblyReference.cache
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CoreCompileInputs.cache
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CopyComplete
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.dll
+E:\Testing Program\AngularWebAPICRUD_Ajit-Test App\CRUDWebAPI\obj\Debug\CRUDWebAPI.pdb
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\ApplicationInsights.config
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\CRUDWebAPI.dll.config
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\CRUDWebAPI.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\CRUDWebAPI.pdb
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Antlr3.Runtime.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\EntityFramework.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.Web.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Newtonsoft.Json.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Cors.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Helpers.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.Cors.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Mvc.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Optimization.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Razor.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\WebGrease.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\EntityFramework.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\EntityFramework.SqlServer.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.Cors.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Newtonsoft.Json.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Helpers.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Mvc.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Optimization.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.Razor.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Antlr3.Runtime.pdb
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\bin\Microsoft.AI.Web.xml
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CoreCompileInputs.cache
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CopyComplete
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\obj\Debug\CRUDWebAPI.dll
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\obj\Debug\CRUDWebAPI.pdb
+E:\Testing Program\EvolentHealthApp\CRUDWebAPI\obj\Debug\CRUDWebAPI.csprojAssemblyReference.cache
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\ApplicationInsights.config
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\CRUDWebAPI.dll.config
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\CRUDWebAPI.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\CRUDWebAPI.pdb
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Antlr3.Runtime.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\EntityFramework.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\EntityFramework.SqlServer.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.Web.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.ApplicationInsights.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Newtonsoft.Json.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Net.Http.Formatting.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Cors.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Helpers.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.Cors.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.WebHost.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Mvc.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Optimization.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Razor.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\WebGrease.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\EntityFramework.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\EntityFramework.SqlServer.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Net.Http.Formatting.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.Cors.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Newtonsoft.Json.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Helpers.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Http.WebHost.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Mvc.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Optimization.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.Razor.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Antlr3.Runtime.pdb
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.ApplicationInsights.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\bin\Microsoft.AI.Web.xml
+E:\Testing Program\Final\f1\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CoreCompileInputs.cache
+E:\Testing Program\Final\f1\CRUDWebAPI\obj\Debug\CRUDWebAPI.csproj.CopyComplete
+E:\Testing Program\Final\f1\CRUDWebAPI\obj\Debug\CRUDWebAPI.dll
+E:\Testing Program\Final\f1\CRUDWebAPI\obj\Debug\CRUDWebAPI.pdb
+E:\Testing Program\Final\f1\CRUDWebAPI\obj\Debug\CRUDWebAPI.csprojAssemblyReference.cache
