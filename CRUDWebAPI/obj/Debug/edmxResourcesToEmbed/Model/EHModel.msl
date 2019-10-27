@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EvolentHealthDBModelStoreContainer" CdmEntityContainer="EvolentHealthDBEntities">
+    <EntitySetMapping Name="ContactDetails">
+      <EntityTypeMapping TypeName="EvolentHealthDBModel.ContactDetails">
+        <MappingFragment StoreEntitySet="tbl_ContactDetails">
+          <ScalarProperty Name="ContactId" ColumnName="ContactId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="StatusMode" ColumnName="StatusMode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="DeleteContactDetail" FunctionName="EvolentHealthDBModel.Store.DeleteContactDetail" />
+    <FunctionImportMapping FunctionImportName="GetAllContactDetails" FunctionName="EvolentHealthDBModel.Store.GetAllContactDetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EvolentHealthDBModel.GetAllContactDetails_Result">
+          <ScalarProperty Name="ContactId" ColumnName="ContactId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="StatusMode" ColumnName="StatusMode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetContactDetailsById" FunctionName="EvolentHealthDBModel.Store.GetContactDetailsById">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EvolentHealthDBModel.GetContactDetailsById_Result">
+          <ScalarProperty Name="ContactId" ColumnName="ContactId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PhoneNo" ColumnName="PhoneNo" />
+          <ScalarProperty Name="StatusMode" ColumnName="StatusMode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="InsertContactDetails" FunctionName="EvolentHealthDBModel.Store.InsertContactDetails" />
+    <FunctionImportMapping FunctionImportName="UpdateContactDetails" FunctionName="EvolentHealthDBModel.Store.UpdateContactDetails" />
+  </EntityContainerMapping>
+</Mapping>
